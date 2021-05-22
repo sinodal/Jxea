@@ -17,7 +17,7 @@ assets are secured.
 
 
 ## LICENSE
-JXEA is released under the terms of the MIT license. Please see [LICENSE](LICENSE) for more information. 
+JXEA is released under the terms of the GNU license. Please see [LICENSE](LICENSE) for more information. 
 
 ## Development and Donations log!
 Development on JXEA began on April 9, 2019 on a simple Blender render for a character animation. From there, 
