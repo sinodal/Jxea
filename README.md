@@ -17,11 +17,11 @@ assets are secured.
 
 
 ## LICENSE
-JXEA is released under the terms of the GNU license. Please see [LICENSE](LICENSE) for more information. 
+Jxea is released under the terms of the GNU license. Please see [LICENSE](LICENSE) for more information. 
 
 ## Development and Donations log!
-Development on JXEA began on April 9, 2019 on a simple Blender render for a character animation. From there, 
-it turned into the first steps in turning JXEA into what it is today:
+Development on Jxea began on April 9, 2019 on a simple Blender render for a character animation. From there, 
+it turned into the first steps in turning Jxea into what it is today:
 
 On April 9, 2020: Jxea was the main character for a then active animation project
 under the name 'Project Sakura'. When production for the animation was discontinued due to business disagreements, 
